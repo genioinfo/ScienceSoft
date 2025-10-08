@@ -42,6 +42,8 @@ Entrega 3 - Herramientas, plantillas y documentación final (entrega actual)
 | **Angy Camila Aguirre** | QA / Documentación | Elaboración del README, manual de instalación y evidencias de commits |
 | **José Julián Tejada** | QA Funcional | Diseño y ejecución de pruebas funcionales |
 | **Lina Patricia Osso** | DevOps | Soporte técnico, automatización y despliegue de entornos |
+| **Anyelo Brayan Galindo** | DevOps | Listas de chequeo |
+
 
 ---
 
