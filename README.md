@@ -56,7 +56,7 @@ Se enfatiza la mejora continua y la comunicación transversal entre áreas media
 ## 🚀 Instrucciones de Uso
 1. Clonar este repositorio:  
    ```bash
-   git clone https://github.com/tu-usuario/nombre-del-repo.git
+   git clone https://github.com/genioinfo/ScienceSoft.git
 2. Abrir la carpeta /documentacion/ y revisar las tres entregas (PDF).
 
 3. Consultar el Manual de Instalación en /manual/Manual_Instalacion.md.
